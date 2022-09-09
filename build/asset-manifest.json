@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/MyWebsite/static/css/main.28055a37.css",
+    "main.js": "/MyWebsite/static/js/main.5fb455d8.js",
+    "static/media/feed-image-3.png": "/MyWebsite/static/media/feed-image-3.7b5d299f1c3127bc29b2.png",
+    "static/media/feed-image-5.png": "/MyWebsite/static/media/feed-image-5.e4291370583e64bf6bbd.png",
+    "static/media/advertisement.png": "/MyWebsite/static/media/advertisement.158a903475f0155742b6.png",
+    "static/media/nepal_n.jpg": "/MyWebsite/static/media/nepal_n.ee7bc0b2eef544159467.jpg",
+    "static/media/status-1.png": "/MyWebsite/static/media/status-1.addd021b9e710bc31e7d.png",
+    "static/media/status-5.png": "/MyWebsite/static/media/status-5.cc9a9435acd4f495bf90.png",
+    "static/media/status-4.png": "/MyWebsite/static/media/status-4.7e951cc996d036958a4e.png",
+    "static/media/ppsizer.jpg": "/MyWebsite/static/media/ppsizer.7dd45c3a384a00f33d82.jpg",
+    "static/media/status-3.png": "/MyWebsite/static/media/status-3.110fc1d0739c39122e1c.png",
+    "static/media/status-2.png": "/MyWebsite/static/media/status-2.93c3f8e3a8550582d3f0.png",
+    "static/media/army_n.jpg": "/MyWebsite/static/media/army_n.3af6ecda39e8ea508986.jpg",
+    "static/media/member-3.png": "/MyWebsite/static/media/member-3.cedb1ba5832f609542da.png",
+    "static/media/member-4.png": "/MyWebsite/static/media/member-4.df63bfcb6f1c8f5d7137.png",
+    "static/media/profile-pic.png": "/MyWebsite/static/media/profile-pic.3a2249a07dd80a9c36a4.png",
+    "static/media/member-1.png": "/MyWebsite/static/media/member-1.d9c678d896bed0b8c031.png",
+    "static/media/member-2.png": "/MyWebsite/static/media/member-2.a92c2df263101574e364.png",
+    "static/media/shortcut-2.png": "/MyWebsite/static/media/shortcut-2.5dca328e8cabf38201f5.png",
+    "static/media/shortcut-1.png": "/MyWebsite/static/media/shortcut-1.7bb811ecedb84bd4afc0.png",
+    "static/media/shortcut-4.png": "/MyWebsite/static/media/shortcut-4.21e19087d8294d1f5e03.png",
+    "static/media/menu.png": "/MyWebsite/static/media/menu.bd75da09f8a10b1c4802.png",
+    "static/media/shortcut-3.png": "/MyWebsite/static/media/shortcut-3.5b85ae1fce3e2d28b622.png",
+    "static/media/messanger.jfif": "/MyWebsite/static/media/messanger.73e5d09dd42ffac50192.jfif",
+    "index.html": "/MyWebsite/index.html",
+    "main.28055a37.css.map": "/MyWebsite/static/css/main.28055a37.css.map",
+    "main.5fb455d8.js.map": "/MyWebsite/static/js/main.5fb455d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.28055a37.css",
+    "static/js/main.5fb455d8.js"
+  ]
+}
